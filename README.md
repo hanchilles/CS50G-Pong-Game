@@ -1,2 +1,3 @@
-# gd50-harvard
-[2021] Harvard CS50 - Introduction to Game Development
+# GD50 Harvard - Pong Game Project
+
+[Updating] Please stay tuned!
